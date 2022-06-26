@@ -30,6 +30,9 @@ Plug 'junegunn/fzf.vim'																" Buscar por arquivo
 Plug 'jiangmiao/auto-pairs'														" Autocompleta () {} [] ''
 Plug 'epmatsw/ag.vim'
 
+" Status Bar
+Plug 'maximbaz/lightline-ale'													" Tema de Status bar
+Plug 'itchyny/lightline.vim'													" Barra de tarefas
 
 call plug#end()
 
